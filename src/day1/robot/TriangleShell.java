@@ -23,6 +23,7 @@ public class TriangleShell {
 			// 5. call your drawTriangle() method using your length variable
 			drawTriangle(triangleLength);
 			// 10. Turn the tortoise 6 degrees to the right
+			Max.turn(6);
 		}
 
 	}
